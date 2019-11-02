@@ -14,7 +14,7 @@ The main purpose is to provide simple example of git trainig demos
 eployment can be on any web server
 
 ##How to contribute
-
+Please fork this repository
 ##Copyright
 
 Git.Traing 
