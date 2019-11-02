@@ -7,6 +7,10 @@ This is eample is to show different part of repository
 
 ##Purpose
 
+The main purpose is to provide simple example of git trainig demos
+
 ##Deployment
+
+eployment can be on any web server
 
 ##How to contribute
